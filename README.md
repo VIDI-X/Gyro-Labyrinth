@@ -99,3 +99,5 @@ The loop also converts the gyroscope's pitch and roll values to movement directi
 This code creates a complete, immersive game experience on the VIDI X microcontroller, leveraging the gyroscope for dynamic control and providing a unique labyrinth adventure. The use of LED effects, sounds, and saving/loading options enhances gameplay, making it an engaging project on the VIDI X platform.
 
 ![Gyro-Labyrinth (3)](https://github.com/user-attachments/assets/274bcd5c-167f-4095-901b-5465c6c7fd8f)
+
+![Gyro-Lab1](https://github.com/user-attachments/assets/a87da7d4-b653-41a2-9838-51da2ae1b23e)
