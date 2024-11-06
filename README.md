@@ -16,14 +16,14 @@ This code is for a labyrinth game on the VIDI X microcontroller, utilizing an LS
 The labyrinth layout is stored as a 2D array, with specific values representing different elements of the game. The player moves through the maze to collect items, avoid or fight vampires, and find the exit.
 
 ### Game Map Elements
-- `wall`: Obstacles the player cannot pass through.
-- `empty`: Open passage for the player.
-- `Player`: Represents the player's position.
-- `key`: Collectable keys required to open doors.
-- `door`: Locked paths that require keys to pass.
-- `garlic`: Collectable items used to fend off vampires.
-- `vampire`: Enemy that follows the player; the player needs garlic to defeat them.
-- `end`: The goal or exit of the labyrinth.
+- `wall`: Obstacles the player cannot pass through, drawn in **blue**.
+- `empty`: Open passage for the player, shown in **black**.
+- `Player`: Represents the player's position, displayed in **red**.
+- `key`: Collectable keys required to open doors, shown in **green**.
+- `door`: Locked paths that require keys to pass, displayed in **navy blue**.
+- `garlic`: Collectable items used to fend off vampires, shown in **yellow**.
+- `vampire`: Enemy that follows the player; the player needs garlic to defeat them, displayed in **cyan**.
+- `end`: The goal or exit of the labyrinth, shown in **magenta**.
 
 ## Code Structure and Functionality
 
