@@ -101,3 +101,5 @@ This code creates a complete, immersive game experience on the VIDI X microcontr
 ![Gyro-Labyrinth (3)](https://github.com/user-attachments/assets/274bcd5c-167f-4095-901b-5465c6c7fd8f)
 
 ![Gyro-Lab1](https://github.com/user-attachments/assets/a87da7d4-b653-41a2-9838-51da2ae1b23e)
+
+![Gyro-Lab2](https://github.com/user-attachments/assets/f3519fa1-8f82-41da-b5ab-877d917f43e8)
