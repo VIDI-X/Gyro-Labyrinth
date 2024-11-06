@@ -8,7 +8,7 @@ This code is for a labyrinth game on the VIDI X microcontroller, utilizing an LS
 1. **VIDI X Microcontroller**
 2. **VIDIIC I2C Connector Cable**:
    - Ensure micro switches 4 and 5 in the S2 switch group are set to "USE EXP" to enable proper I2C communication.
-[3. **LSM9DS1TR Gyroscope** ](https://soldered.com/product/accelerometer-gyroscope-magnetometer-lsm9ds1tr-9-dof-breakout/)
+3. [**LSM9DS1TR Gyroscope** ](https://soldered.com/product/accelerometer-gyroscope-magnetometer-lsm9ds1tr-9-dof-breakout/)
 
 ![Gyro-Labyrinth (1)](https://github.com/user-attachments/assets/e3380834-d7ed-4333-9502-5c0b9ea9cb3e)
 
