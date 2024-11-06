@@ -1,6 +1,6 @@
 # Labyrinth Game for VIDI X Microcontroller
 
-This code is for a labyrinth game on the VIDI X microcontroller, utilizing an LSM9DS1TR gyroscope connected to the VIDIIC connector to allow player movement through tilt-based controls. Optionally, the player can use buttons for debugging purposes. This setup provides a responsive and interactive way to navigate a labyrinth, complete with obstacles, collectable items, and enemies.
+This code is for a labyrinth game on the VIDI X microcontroller, utilizing an LSM9DS1TR gyroscope connected to the VIDIIC connector to allow player movement through tilt-based controls. Once the gyroscope is connected, the player can optionally use buttons for debugging purposes. This setup provides a responsive and interactive way to navigate a labyrinth, complete with obstacles, collectable items, and enemies.
 
 ![Gyro-Labyrinth (2)](https://github.com/user-attachments/assets/c3541adb-0711-4502-ad1b-55c46b1097a8)
 
