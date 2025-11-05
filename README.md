@@ -1,11 +1,11 @@
-# Labyrinth Game for VIDI X Microcontroller
+# Labyrinth Game for VIDI X Microcomputer
 
-This code is for a labyrinth game on the VIDI X microcontroller, utilizing an LSM9DS1TR gyroscope connected to the VIDIIC connector to allow player movement through tilt-based controls. Once the gyroscope is connected, the player can optionally use buttons for debugging purposes. This setup provides a responsive and interactive way to navigate a labyrinth, complete with obstacles, collectable items, and enemies.
+This code is for a labyrinth game on the VIDI X Microcomputer, utilizing an LSM9DS1TR gyroscope connected to the VIDIIC connector to allow player movement through tilt-based controls. Once the gyroscope is connected, the player can optionally use buttons for debugging purposes. This setup provides a responsive and interactive way to navigate a labyrinth, complete with obstacles, collectable items, and enemies.
 
 ![Gyro-Labyrinth (2)](https://github.com/user-attachments/assets/c3541adb-0711-4502-ad1b-55c46b1097a8)
 
 ## Hardware Requirements
-1. **VIDI X Microcontroller**
+1. **VIDI X Microcomputer**
 2. **VIDIIC I2C Connector Cable**:
    - Ensure micro switches 4 and 5 in the S2 switch group are set to "USE EXP" to enable proper I2C communication.
 3. [**LSM9DS1TR Gyroscope** ](https://soldered.com/product/accelerometer-gyroscope-magnetometer-lsm9ds1tr-9-dof-breakout/)
@@ -96,7 +96,7 @@ The loop also converts the gyroscope's pitch and roll values to movement directi
 
 ---
 
-This code creates a complete, immersive game experience on the VIDI X microcontroller, leveraging the gyroscope for dynamic control and providing a unique labyrinth adventure. The use of LED effects, sounds, and saving/loading options enhances gameplay, making it an engaging project on the VIDI X platform.
+This code creates a complete, immersive game experience on the VIDI X Microcomputer, leveraging the gyroscope for dynamic control and providing a unique labyrinth adventure. The use of LED effects, sounds, and saving/loading options enhances gameplay, making it an engaging project on the VIDI X platform.
 
 ![Gyro-Labyrinth (3)](https://github.com/user-attachments/assets/274bcd5c-167f-4095-901b-5465c6c7fd8f)
 
